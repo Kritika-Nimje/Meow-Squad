@@ -69,11 +69,4 @@ npm run dev
 
 ---
 
-## 🤝 Contribution
-We welcome contributions! Feel free to submit issues or pull requests.
-
-📧 Contact us at: [Your Email]  
-🌐 GitHub: [Your Repo Link]  
-
 ⭐ **Star this repo if you find it useful!** ⭐
-
