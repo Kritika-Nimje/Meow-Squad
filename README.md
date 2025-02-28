@@ -24,8 +24,8 @@
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/qr-attendance.git
-cd qr-attendance
+git clone https://github.com/your-repo/Student-attendance.git
+cd Student-attendance
 ```
 ### 2️⃣ Install Dependencies
 ```bash
