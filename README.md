@@ -68,5 +68,14 @@ npm run dev
 📈 **Attendance Analytics:** Machine learning (Scikit-learn) to detect latecomers and absentee patterns.  
 
 ---
+## Snippets of our Project
+![1dd1c204-8a19-413d-9df9-de2ce3683a1e](https://github.com/user-attachments/assets/12b3dec4-63fb-4125-8c55-bec213db7f42)
+
+![342b2512-fe9a-4868-bada-8e6e37cf9f4d](https://github.com/user-attachments/assets/f08b6318-982d-4441-a673-f1b6a421ec51)
+
+![73c866bf-d068-4ffd-bc06-49ffe9385fcc](https://github.com/user-attachments/assets/8d532492-0ed9-4a90-95c1-72fcabb0b008)
+
+
+
 
 ⭐ **Star this repo if you find it useful!** ⭐
