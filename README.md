@@ -30,25 +30,19 @@ cd Student-attendance
 ### 2️⃣ Install Dependencies
 ```bash
 # Backend Setup
-cd backend
+cd Student-attendance
 npm install
 
-# Frontend Setup
-cd frontend
-npm install
 ```
 ### 3️⃣ Set Up Environment Variables
 Create a `.env` file for both backend and frontend with the necessary API keys and configurations.
 
 ### 4️⃣ Run the Application
 ```bash
-# Start Backend Server
-cd backend
-npm start
+
 
 # Start Frontend
-cd frontend
-npm run dev
+npm run start
 ```
 
 ---
